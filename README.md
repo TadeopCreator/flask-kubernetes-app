@@ -1,6 +1,8 @@
 # Flask Kubernetes App
 
-This is a simple Flask application that serves a message on the root page. This project is part of a larger GitOps setup, and it demonstrates a basic web service that can be deployed using Jenkins and ArgoCD. This README provides an overview of the project, its structure, and how to set it up.
+This is a simple Flask application that serves a message on the root page. This project is part of a larger GitOps setup, and it demonstrates a basic web service that can be deployed using Jenkins and ArgoCD.
+
+Check the [medium article](https://medium.com/@tadeop/continuous-deployment-with-jenkins-gitops-and-minikube-deploying-a-flask-app-to-kubernetes-664beeaa82b0) that provides an overview of the project, its structure, and how to set it up.
 
 ## Table of Contents
 
